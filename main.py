@@ -15,9 +15,9 @@ from PyQt6.QtCore import Qt
 DB_REMOTE = {
     "HOST": "mysql.65e3ab49565f.hosting.myjino.ru",
     "PORT": 3306,
-    "USER": "j30084097",
-    "PASS": quote_plus("7f9vGAxSu"),
-    "NAME": "j30084097"
+    "USER": "",
+    "PASS": quote_plus(""),
+    "NAME": ""
 }
 
 DB_LOCAL = "sqlite:///local_emulator.db"
