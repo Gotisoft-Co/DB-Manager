@@ -13,7 +13,7 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt
 
 DB_REMOTE = {
-    "HOST": "mysql.65e3ab49565f.hosting.myjino.ru",
+    "HOST": "",
     "PORT": 3306,
     "USER": "",
     "PASS": quote_plus(""),
